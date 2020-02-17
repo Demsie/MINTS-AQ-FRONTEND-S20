@@ -386,3 +386,16 @@ export class MapComponent implements OnInit{
       }
     }
 }
+
+/** 
+setColor(ppb:number):string{
+// console.log(PM);
+ if(PM = 2.5)
+      {
+  if(ppb >= 0 && ppb <=25) return "#a5ff7d";
+ else if(ppb > 25 && ppb <=50) return "#a5ff7d";
+ else if(ppb > 50 && ppb <=100)return "#fffb00";
+  else if(ppb > 100 && ppb <=150)return "#8b008b";
+  else if(ppb > 150) return "#660038";
+}
+ } **/
